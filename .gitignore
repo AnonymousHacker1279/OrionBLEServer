@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+.idea/.idea.OrionBLEServer/.idea/discord.xml
+OrionBLEServer.sln.DotSettings.user
+*.http
